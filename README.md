@@ -1,6 +1,6 @@
 # Patika.Dev_SQL_Example_1
 
-####Ordered list
+
                 
 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 2. film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
